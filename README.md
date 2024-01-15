@@ -24,3 +24,9 @@ npm run start:server
 -   Минималистичный дизайн и адаптив (тонкий скролл, если перебор задач)
 -   Внедрен redux для хранения данных о задачах
 -   Внедрен router-dom v6 для базового роутинга (с обработкой несуществующей страницы)
+
+![1](https://github.com/Vlador15/tasktracker-ts/assets/40504090/5afec225-e032-49c0-ab33-d431d2a85e48)
+![2](https://github.com/Vlador15/tasktracker-ts/assets/40504090/840063e1-6d07-48c0-aa07-f3af6f4c400e)
+
+https://github.com/Vlador15/tasktracker-ts/assets/40504090/c61cd72f-e689-4c77-8db1-1877ab3a3269
+
