@@ -1,0 +1,41 @@
+.column {
+    width: 250px;
+    min-width: 250px;
+    color: #000;
+    margin-bottom: 10px;
+
+    &:not(:first-child) {
+        margin-left: 10px;
+    }
+}
+
+.title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.items {
+    background: #ffffff0a;
+    padding: 5px;
+    border-radius: 5px;
+
+    min-height: 700px;
+    max-height: 700px;
+    overflow-y: auto;
+
+    &::-webkit-scrollbar {
+        width: 4px; /* ширина scrollbar */
+    }
+    &::-webkit-scrollbar-track {
+        background: rgb(12, 12, 12); /* цвет дорожки */
+    }
+    &::-webkit-scrollbar-thumb {
+        background-color: rgb(255, 255, 255); /* цвет плашки */
+        border-radius: 20px; /* закругления плашки */
+        border: 1px solid rgb(161, 161, 161); /* padding вокруг плашки */
+    }
+}

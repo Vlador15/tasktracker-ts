@@ -1,0 +1,46 @@
+.form-input {
+    margin-bottom: 15px;
+    label {
+        margin-right: 10px;
+        width: 100%;
+    }
+
+    input {
+        padding: 8px 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        width: 100%;
+    }
+}
+
+.ui-button {
+    padding: 5px 10px;
+    margin: 0 2px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.primary {
+    background: #007bff;
+    color: #fff;
+}
+
+.error {
+    background: red;
+    color: #fff;
+}
+
+.form-select {
+    margin-bottom: 15px;
+    label {
+        margin-right: 10px;
+        width: 100%;
+    }
+
+    select {
+        padding: 8px 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        width: 100%;
+    }
+}

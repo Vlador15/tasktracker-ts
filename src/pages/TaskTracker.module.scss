@@ -1,0 +1,29 @@
+.tasks {
+    display: flex;
+
+    overflow-x: auto;
+}
+
+.createTask {
+    transition: all 0.3s ease;
+    border: 1px solid #fff0;
+    border-radius: 30px;
+    padding: 10px 30px;
+
+    background: #0a49bf;
+
+    &:hover {
+        background: transparent;
+        color: #dcd80d;
+        border: 1px solid #e3e3e3;
+    }
+}
+
+.top {
+    display: flex;
+    justify-content: end;
+}
+
+section {
+    width: 100%;
+}

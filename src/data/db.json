@@ -1,0 +1,46 @@
+{
+    "tasks": [
+        {
+            "number": 1111,
+            "date": "13.01.2024, 10:45:50",
+            "title": "Найти референсы дизайна",
+            "desc": "Выбрать парочку симпатичных дизайн-макетов",
+            "status": "Создана"
+        },
+        {
+            "number": 2222,
+            "date": "14.01.2024, 17:31:11",
+            "title": "Инициализировать проект",
+            "desc": "Создать пустой проект для трекера. Добавить архитектуру и стейтменеджер",
+            "status": "В работе"
+        },
+        {
+            "number": 3333,
+            "date": "14.01.2024, 17:41:11",
+            "title": "Задача 1",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "status": "Завершена"
+        },
+        {
+            "number": 4444,
+            "date": "14.01.2024, 17:41:11",
+            "title": "Задача 1",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "status": "Завершена"
+        },
+        {
+            "number": 5555,
+            "date": "14.01.2024, 17:41:11",
+            "title": "Задача 1",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "status": "Завершена"
+        },
+        {
+            "number": 6666,
+            "date": "14.01.2024, 17:41:11",
+            "title": "Задача 1",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+            "status": "Завершена"
+        }
+    ]
+}
